@@ -126,7 +126,8 @@ main {
     color: #0E0A21;
 }
 
-.patente h3{
+.patente h3,
+.container h3 {
     background-color: #DE2226;
     border-radius: 25px;
     display: flex;

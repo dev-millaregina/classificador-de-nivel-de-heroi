@@ -42,7 +42,7 @@ Além disso, foi criada uma **Landing Page em HTML e CSS** para representar visu
 
 ![](img/readme.png)
 
-#### Acesse o link: https://dev-millaregina.github.io/classificador-de-nivel/
+#### Acesse o link: https://dev-millaregina.github.io/classificador-de-nivel-de-heroi/
 
 ## Estrutura do Projeto
 
